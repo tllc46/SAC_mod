@@ -1,4 +1,6 @@
 # SAC source 수정
+to activate "LOAD" command, replace original SAC source codes to these modified source codes and complile it
+
 inc/co.h
 
 src/top/executecomman.c
