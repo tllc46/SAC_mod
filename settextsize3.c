@@ -225,7 +225,7 @@ xwindow_set_font_size_xft(XWindow * xw, float width, float height) {
      *
      */
     //pt = (xw->height / (xs->height * 0.55)) * 12.0;
-    pt=(xw->height)*height*1.3; //250326 Donglin Choi
+    pt=(xw->height)*height*1.3; //250326 Donglin Choi: Hardware text
 
     /* Round to nearest integer value */
     pt = (int) (pt + 0.5);
