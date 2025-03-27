@@ -1,4 +1,4 @@
-# SAC source oode modification
+# SAC source code modification
 to activate "LOAD" command, replace original SAC source codes to these modified source codes and complile it
 
 inc/co.h
